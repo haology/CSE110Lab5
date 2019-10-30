@@ -2,7 +2,7 @@ package edu.ucsd.cse110.tests;
 import edu.ucsd.cse110.temperature.Fahrenheit;
 import edu.ucsd.cse110.temperature.Temperature;
 import junit.framework.TestCase;
-import static org.junit.jupiter.api.Assertions.*;
+
 
 public class FahrenheitTest extends TestCase{
     private float delta = 0.001f;
